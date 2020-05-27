@@ -1,6 +1,6 @@
 # One-way-analysis-of-varience
-Dataset for analysis was obtained at www.statstutor.ac.uk
-This dtaset contains information on 78 people using one of three diets.
+Dataset for analysis was obtained at www.statstutor.ac.uk\
+This dataset contains information on 78 people using one of three diets.\
 Research quetions:
 
  One-way ANOVA
